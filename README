@@ -2,3 +2,6 @@ This repository contains the XML configuration file for the ActiveMQ server.
 It is configured to allow for spooling of messages to disk if they become
 too backlogged for a consumer to retrieve them.  This gives the consumer time
 to get all the messages.
+
+This is for version 5.8.0 of the activemq broker.
+http://activemq.apache.org
